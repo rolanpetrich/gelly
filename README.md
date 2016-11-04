@@ -1,2 +1,2 @@
 # gelly
-simply the test project
+simply the test project Super Puper
